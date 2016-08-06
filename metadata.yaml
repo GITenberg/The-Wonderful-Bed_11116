@@ -1,0 +1,25 @@
+_repo: The-Wonderful-Bed_11116
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knevels, Gertrude
+    birthdate: 1881
+    deathdate: 1962
+    gutenberg_agent_id: '3849'
+    url: http://www.gutenberg.org/2009/agents/3849
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Fantasy'
+- !lcc 'PZ'
+- GITenberg
+title: The Wonderful Bed
+url: http://www.gutenberg.org/ebooks/11116
